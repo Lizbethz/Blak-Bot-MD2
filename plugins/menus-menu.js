@@ -52,55 +52,25 @@ ${tradutor.texto1[9]} ${user.premiumTime > 0 ? '✅' : (isPrems ? '✅' : '❌')
  ${tradutor.texto1[10]}
  
   ╭───── • ◆ • ─────╮ 
-  ├❧ _${usedPrefix}menuaudios_
-  ├❧ _${usedPrefix}menuanimes_
-  ├❧ _${usedPrefix}labiblia_
-  ├❧ _${usedPrefix}lang_ 
-  ├❧ _${usedPrefix}langgroup_ 
-  ├❧ _${usedPrefix}glx_
+  ├🔉 _${usedPrefix}menuaudios_
+  ├🎎 _${usedPrefix}menuanimes_
+  ├📔 _${usedPrefix}labiblia_
+  ├🔴 _${usedPrefix}lang_ 
+  ├⚫ _${usedPrefix}langgroup_ 
+  ├🔵 _${usedPrefix}glx_
   ╰───── • ◆ • ─────╯
  
   ${tradutor.texto1[11]}
  
   ╭───── • ◆ • ─────╮
-  ├❧ _${usedPrefix}terminosycondiciones_
   ├❧ _${usedPrefix}grupos_
   ├❧ _${usedPrefix}estado_
   ├❧ _${usedPrefix}infobot_
   ├❧ _${usedPrefix}speedtest_
-  ├❧ _${usedPrefix}donar_
   ├❧ _${usedPrefix}owner_
   ├❧ _${usedPrefix}script_
-  ├❧ _${usedPrefix}reporte *<txt>*_
-  ├❧ _${usedPrefix}join *<wagp_url>*_
   ├❧ _${usedPrefix}fixmsgespera_
   ├❧ _bot_ (sin prefijo)
-  ╰───── • ◆ • ─────╯
-
-  ${tradutor.texto1[12]}
- 
-  ╭───── • ◆ • ─────╮
-  ├❧ _${usedPrefix}serbot --code_
-  ├❧ _${usedPrefix}serbot_
-  ├❧ _${usedPrefix}deletebot_
-  ├❧ _${usedPrefix}token_
-  ├❧ _${usedPrefix}stop_
-  ├❧ _${usedPrefix}bots_
-  ├❧
-  ├❧ _${usedPrefix}enable restrict_
-  ├❧ _${usedPrefix}disable restrict_
-  ├❧ _${usedPrefix}enable autoread_
-  ├❧ _${usedPrefix}disable autoread_
-  ├❧ _${usedPrefix}enable antispam_
-  ├❧ _${usedPrefix}disable antispam_
-  ├❧ _${usedPrefix}enable anticall_
-  ├❧ _${usedPrefix}disable anticall_
-  ├❧ _${usedPrefix}enable modoia_
-  ├❧ _${usedPrefix}disable modoia_
-  ├❧ _${usedPrefix}enable audios_bot_
-  ├❧ _${usedPrefix}disable audios_bot_
-  ├❧ _${usedPrefix}enable antiprivado_
-  ├❧ _${usedPrefix}disable antiprivado_
   ╰───── • ◆ • ─────╯
 
   ${tradutor.texto1[13]}
@@ -139,7 +109,6 @@ ${tradutor.texto1[9]} ${user.premiumTime > 0 ? '✅' : (isPrems ? '✅' : '❌')
   ├❧ _${usedPrefix}pista_
   ├❧ _${usedPrefix}akinator_
   ├❧ _${usedPrefix}wordfind_
-  ├❧ _${usedPrefix}glx (RPG Mundo)_
   ╰───── • ◆ • ─────╯
 
   ${tradutor.texto1[14]}
@@ -515,9 +484,9 @@ ${tradutor.texto1[9]} ${user.premiumTime > 0 ? '✅' : (isPrems ? '✅' : '❌')
   ├❧ _${usedPrefix}listcmd_
   ├❧ _${usedPrefix}setppbot *<responder a img>*_
   ├❧ _${usedPrefix}addcmd *<txt>*_
-  ├❧ _${usedPrefix}delcmd_
-  ├❧ _${usedPrefix}saveimage_
-  ├❧ _${usedPrefix}viewimage_
+  ├🌹 _${usedPrefix}delcmd_
+  ├🌹 _${usedPrefix}saveimage_
+  ├🌹 _${usedPrefix}viewimage_
   ╰───── • ◆ • ─────╯`
 
     let pp
